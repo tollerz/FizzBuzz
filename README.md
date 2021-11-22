@@ -1,6 +1,6 @@
-#FizzBuzz
+# FizzBuzz
 
-##Tests
+## Tests
 
 Run `npm run test`
 
